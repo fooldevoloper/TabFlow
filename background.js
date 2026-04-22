@@ -1,0 +1,20 @@
+importScripts(
+  'src/config/CategoryConfiguration.js',
+  'src/utils/DomainExtractor.js',
+  'src/utils/UrlPatternMatcher.js',
+  'src/utils/ColorGenerator.js',
+  'src/utils/TitleParser.js',
+  'src/utils/Constants.js',
+  'src/services/StateManager.js',
+  'src/services/StorageManager.js',
+  'src/services/TabFocusService.js',
+  'src/services/TabGroupService.js',
+  'src/services/TabGroupService.core.js',
+  'src/services/TabGroupService.helpers.js',
+  'src/services/TabGroupService.operations.js',
+  'src/services/TabGroupService.navigation.js',
+  'src/services/TabGroupService.queries.js',
+  'src/services/GroupManager.js',
+  'src/handlers/MessageHandler.js',
+  'src/app.js'
+);

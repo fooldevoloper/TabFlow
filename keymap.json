@@ -1,0 +1,36 @@
+{
+  "shortcuts": {
+    "focus-left": {
+      "enabled": true,
+      "suggested_key": {
+        "default": "Alt+H",
+        "mac": "Alt+H"
+      },
+      "description": "Focus Tab Group Left"
+    },
+    "focus-right": {
+      "enabled": true,
+      "suggested_key": {
+        "default": "Alt+L",
+        "mac": "Alt+L"
+      },
+      "description": "Focus Tab Group Right"
+    },
+    "toggle-current-group": {
+      "enabled": true,
+      "suggested_key": {
+        "default": "Alt+E",
+        "mac": "Alt+E"
+      },
+      "description": "Toggle expand/collapse current Tab Group"
+    },
+    "toggle-all-groups": {
+      "enabled": true,
+      "suggested_key": {
+        "default": "Alt+Shift+E",
+        "mac": "Alt+Shift+E"
+      },
+      "description": "Toggle expand/collapse all Tab Groups"
+    }
+  }
+}
